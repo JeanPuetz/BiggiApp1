@@ -1,0 +1,36 @@
+{
+ 	"gerichte": [
+ 	{
+ 		"name": "Heiterer Hering",
+		"bild": "gericht1.png",
+		"untertitel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar rhoncus malesuada. Pellentesque blandit sapien purus, quis porttitor arcu."	
+	},
+
+	{
+ 		"name": "Fröhliche Forelle",
+		"bild": "gericht2.png",
+		"untertitel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar rhoncus malesuada. Pellentesque blandit sapien purus, quis porttitor arcu."	
+	},
+	
+	{
+ 		"name": "Buckeliger Barsch",
+		"bild": "gericht3.png",
+		"untertitel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar rhoncus malesuada. Pellentesque blandit sapien purus, quis porttitor arcu."	
+	},
+	
+	{
+ 		"name": "Feuerroter Rotbarsch",
+		"bild": "gericht4.png",
+		"untertitel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar rhoncus malesuada. Pellentesque blandit sapien purus, quis porttitor arcu."	
+	},
+	
+	{
+ 		"name": "Deftige Dorade",
+		"bild": "gericht5.png",
+		"untertitel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar rhoncus malesuada. Pellentesque blandit sapien purus, quis porttitor arcu."	
+	}
+	
+	]
+
+}
+	
